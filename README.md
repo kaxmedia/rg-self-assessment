@@ -79,11 +79,12 @@ rg-self-assessment/
 │   ├── class-rgsa-renderer.php
 │   └── class-rgsa-scorer.php
 └── rg-self-assessment.php
-
+```
 
 - PHP handles rendering and scoring logic
 - JavaScript controls step navigation and UI state
 - CSS is fully scoped to avoid theme conflicts
+
 
 ---
 
