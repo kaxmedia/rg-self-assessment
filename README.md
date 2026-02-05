@@ -69,14 +69,15 @@ wp-content/plugins/
 
 **Plugin structure:**
 
+```text
 rg-self-assessment/
 ├── assets/
-│ ├── rgsa.css # Styling (BonusFinder-inspired)
-│ └── rgsa.js # Step logic & progress handling
+│   ├── rgsa.css   # Styling (BonusFinder-inspired)
+│   └── rgsa.js    # Step logic & progress handling
 ├── includes/
-│ ├── class-rgsa-plugin.php
-│ ├── class-rgsa-renderer.php
-│ └── class-rgsa-scorer.php
+│   ├── class-rgsa-plugin.php
+│   ├── class-rgsa-renderer.php
+│   └── class-rgsa-scorer.php
 └── rg-self-assessment.php
 
 
